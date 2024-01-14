@@ -6,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manilmunjal&label=Profile%20views&color=0ac29d&style=plastic" alt="manilmunjal" /> </p>
 
-- 🔭 I’m currently working on **a research paper based on Crypto currency and blockchain**
+
 
 - 🌱 I’m currently learning **Salesforce**
 
 - 📫 How to reach me **manilmunjal@gmail.com**
+- 🔭 I’m currently working on a research paper based on **Crypto currency and blockchain** NFT-ARTChain, where the fusion of blockchain brilliance and artistic innovation takes center stage! 🚀✨<br> 
+NFT-ARTChain, is more than just a digital canvas—it's an ecosystem meticulously crafted for the connoisseurs of both art and technology. Picture this: every stroke, every pixel, securely stored on the immutable ledger of the blockchain, ensuring the authenticity and rarity of each masterpiece.<br> NFT-ARTChain, where art meets blockchain, and creativity knows no bounds. This is not just a project; it's a testament to the limitless possibilities when technology and art engage in a harmonious dance. Welcome to the future of artistic expression—welcome to NFT-ARTChain! 🎨🔗<br>
+#NFTARTChain #BlockchainInnovation #ArtMeetsTech
 
 
 
