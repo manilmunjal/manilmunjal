@@ -1,5 +1,5 @@
 <center> 
- <img style="width:100%" src="https://github.com/manilmunjal/gifs/blob/main/your_cool_intro%20(1).gif">
+<img style="width:100%" src="https://github.com/manilmunjal/gifs/blob/main/your_cool_intro%20(1).gif">
 </center>
 <h1 align="center">Hi 👋, I'm Manil Munjal</h1>
 <h3 align="center">A passionate software developer and cloud enthusiast from India</h3>
@@ -8,12 +8,71 @@
 
 
 
-- 🌱 I’m currently learning **Salesforce**
 
-- 📫 How to reach me **manilmunjal@gmail.com**
-- 🔭 I’m currently working on a research paper based on **Crypto currency and blockchain** NFT-ARTChain, where the fusion of blockchain brilliance and artistic innovation takes center stage! 🚀✨<br> 
-NFT-ARTChain, is more than just a digital canvas—it's an ecosystem meticulously crafted for the connoisseurs of both art and technology. Picture this: every stroke, every pixel, securely stored on the immutable ledger of the blockchain, ensuring the authenticity and rarity of each masterpiece.<br> NFT-ARTChain, where art meets blockchain, and creativity knows no bounds. This is not just a project; it's a testament to the limitless possibilities when technology and art engage in a harmonious dance. Welcome to the future of artistic expression—welcome to NFT-ARTChain! 🎨🔗<br>
-#NFTARTChain #BlockchainInnovation #ArtMeetsTech
+# 👋 Hello, I'm Manil Munjal!
+
+![Learning in Progress](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+
+## 🚀 About Me
+
+I'm an **SRE (Site Reliability Engineering) enthusiast**, continuously exploring and learning new tools, technologies, and best practices to build resilient, reliable systems. My journey in SRE is driven by a passion for:
+
+- **🔧 Building automated solutions**
+- **📈 Optimizing system performance**
+- **🛠️ Mastering DevOps and cloud infrastructure**
+- **🚀 Continuous learning and growth**
+
+---
+
+## 🌱 Currently Learning
+
+- 🌐 Diving deep into **Kubernetes** and container orchestration
+- ☁️ Experimenting with **AWS**, **Azure**, and **GCP** for scalable cloud solutions
+- 📈 Enhancing observability with **Prometheus**, **Grafana**, and **ELK Stack**
+- 🛠️ Exploring **CI/CD pipelines** and infrastructure as code (**Terraform**, **Ansible**)
+
+---
+
+## 💡 Fun Fact
+I love solving challenging problems and learning **something new every day**. I believe in automating everything that can be automated to make systems more efficient and reliable.
+
+---
+
+## 🤝 Let's Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/manilmunjal)
+- 💬 Feel free to reach out if you want to discuss tech, tools, or best practices in the SRE world!
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,terraform,ansible,linux,bash)
+
+---
+
+## 📈 GitHub Stats
+
+![Manil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manilmunjal&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manilmunjal&theme=radical&hide_border=true)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manilmunjal&layout=compact&theme=radical)
+
+---
+
+🚀 **Always learning, always growing!** If you have any advice or tips, I'd love to hear them. 😄
+
+
+
+
+
+
 
 
 
