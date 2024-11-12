@@ -50,22 +50,6 @@ I love solving challenging problems and learning **something new every day**. I 
 
 ---
 
-## 📈 GitHub Stats
-
-![Manil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manilmunjal&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manilmunjal&theme=radical&hide_border=true)
-
----
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manilmunjal&layout=compact&theme=radical)
-
----
-
 🚀 **Always learning, always growing!** If you have any advice or tips, I'd love to hear them. 😄
 
 
