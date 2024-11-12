@@ -39,7 +39,7 @@ I love solving challenging problems and learning **something new every day**. I 
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/manilmunjal)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/manil-munjal/)
 - 💬 Feel free to reach out if you want to discuss tech, tools, or best practices in the SRE world!
 
 ---
