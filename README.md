@@ -1,17 +1,17 @@
 <center> 
 <img style="width:100%" src="https://github.com/manilmunjal/gifs/blob/main/your_cool_intro%20(1).gif">
 </center>
-<h1 align="center">Hi 👋, I'm Manil Munjal</h1>
-<h3 align="center">A passionate software developer and cloud enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manilmunjal&label=Profile%20views&color=0ac29d&style=plastic" alt="manilmunjal" /> </p>
 
 
 
 
-# 👋 Hello, I'm Manil Munjal!
+<h1 align="center">👋 Hello, I'm Manil Munjal!</h1>
 
-![Learning in Progress](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Learning in Progress">
+</p>
 
 ## 🚀 About Me
 
