@@ -2,7 +2,6 @@
 <img style="width:100%" src="https://github.com/manilmunjal/gifs/blob/main/your_cool_intro%20(1).gif">
 </center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manilmunjal&label=Profile%20views&color=0ac29d&style=plastic" alt="manilmunjal" /> </p>
 
 
 
